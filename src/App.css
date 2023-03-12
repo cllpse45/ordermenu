@@ -1,3 +1,20 @@
+body{
+  margin: 2px; 
+  background-color: #e3e4e6;
+}
+
 .App {
+  display: flex;
+  justify-content: space-between;
   text-align: center;
+}
+
+.menu{
+  width: 20%;
+  height: auto;
+}
+
+.content{
+  width: 80%;
+  height: auto;
 }

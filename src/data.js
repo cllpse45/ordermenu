@@ -1,0 +1,67 @@
+export default [
+    {
+    id: 1,
+    date: "12 Jan, 2021",
+    productName1: "Vegitable Mixups",
+    productDescription1: "Vegetable Fritters with Egg",
+    price1: 5.30,
+    quantity1: 1,
+    productName2: "Vegitable Mixups",
+    productDescription2: "Vegetable Fritters with Egg",
+    price2: 5.30,
+    quantity2: 1,  
+    imageUrl1: "https://source.unsplash.com/WLxQvbMyfas",
+    imageUrl2: "https://source.unsplash.com/WLxQvbMyfas",
+    status:"rejected",
+    itemsQuantity:2
+},
+{
+    id: 2,
+    date: "12 Jan, 2021",
+    productName1: "Vegitable Mixups",
+    productDescription1: "Vegetable Fritters with Egg",
+    price1: 5.30,
+    quantity1: 1,
+    productName2: "Vegitable Mixups",
+    productDescription2: "Vegetable Fritters with Egg",
+    price2: 5.30,
+    quantity2: 1,  
+    imageUrl1: "https://source.unsplash.com/WLxQvbMyfas",
+    imageUrl2: "https://source.unsplash.com/WLxQvbMyfas",
+    status:"completed",
+    itemsQuantity:2
+},
+{
+    id: 3,
+    date: "12 Jan, 2021",
+    productName1: "Vegitable Mixups",
+    productDescription1: "Vegetable Fritters with Egg",
+    price1: 5.30,
+    quantity1: 1,
+    productName2: "Vegitable Mixups",
+    productDescription2: "Vegetable Fritters with Egg",
+    price2: 5.30,
+    quantity2: 1,  
+    imageUrl1: "https://source.unsplash.com/WLxQvbMyfas",
+    imageUrl2: "https://source.unsplash.com/WLxQvbMyfas",
+    status:"completed",
+    itemsQuantity:2
+},
+{
+    id: 4,
+    date: "12 Jan, 2021",
+    productName1: "Vegitable Mixups",
+    productDescription1: "Vegetable Fritters with Egg",
+    price1: 5.30,
+    quantity1: 1,
+    productName2: "Vegitable Mixups",
+    productDescription2: "Vegetable Fritters with Egg",
+    price2: 5.30,
+    quantity2: 1,  
+    imageUrl1: "https://source.unsplash.com/WLxQvbMyfas",
+    imageUrl2: "https://source.unsplash.com/WLxQvbMyfas",
+    status:"completed",
+    itemsQuantity:2
+}
+
+]

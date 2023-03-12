@@ -1,0 +1,26 @@
+.main-logo{
+    margin-top: 39px;
+    margin-bottom: 45px;
+    width: 90px;
+    height: auto;
+}
+
+.menu-list{
+    margin-left: 35px;
+}
+
+.menu-list p{
+margin-left: 40px;
+font-weight:600;
+}
+.menu-list div{
+    display: flex;
+    align-items:center;
+    justify-content:left;
+    margin: 5px;
+}
+
+.menu-list img{
+    width: 24px;
+    height: 24px;
+}
